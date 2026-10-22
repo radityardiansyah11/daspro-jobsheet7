@@ -30,7 +30,7 @@ public class KafeDoWhile19 {
 
         } while (true); 
 
-        System.out.println("Semua transaksi selesai.");
+        System.out.println("Semua transaksi selesai."); 
 
     }
 }
