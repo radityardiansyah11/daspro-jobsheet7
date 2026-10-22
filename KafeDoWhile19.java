@@ -28,7 +28,7 @@ public class KafeDoWhile19 {
             System.out.println("Total yang harus dibayar: Rp " + totalHarga);
             sc.nextLine();
 
-        } while (true);
+        } while (true); 
 
         System.out.println("Semua transaksi selesai.");
 
